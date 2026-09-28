@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large/raw datasets
+data/raw/
+data/processed/
+
+# Temporary files
+tmp/
+temp/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+*.env
+
+# Model files
+*.pkl
+*.joblib
+*.h5
+*.keras
+*.pt
+*.pth
+*.xgb
