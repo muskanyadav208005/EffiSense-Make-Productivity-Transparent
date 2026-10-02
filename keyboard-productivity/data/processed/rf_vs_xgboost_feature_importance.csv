@@ -1,0 +1,7 @@
+feature,random_forest_importance,xgboost_importance
+consecutive_key1_repetition_rate,0.4120630062689271,0.3476064
+backspace_rate,0.1096703258702348,0.22019291
+unique_key1_count,0.1491248939189879,0.13284239
+unique_transition_count,0.0785747247241854,0.115663156
+DU.key1.key1_median,0.1594862109567746,0.10610259
+DU.key1.key2_median,0.0910808382608897,0.07759259
